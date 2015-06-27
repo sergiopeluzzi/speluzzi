@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SPeluzzi
+        psr4_prefix: SPeluzzi
+        src_path: app
